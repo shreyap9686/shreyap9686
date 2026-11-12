@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**shreyap9686/shreyap9686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Shreya! 👋
 
-Here are some ideas to get you started:
+### Computer Science & Design Engineering Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineering student passionate about software development, problem-solving, and learning new technologies.
+
+- 🌱 Currently learning **Java, Data Structures & Algorithms**
+- 💻 Interested in **Java Full Stack Development**
+- 🧠 Practising coding problems on **LeetCode**
+- 🚀 Building projects to improve my development skills
+- 🎯 Working towards becoming a skilled Software Developer
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** Java, C, C++
+- **Web Technologies:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** VS Code, Git, GitHub
+
+## 📚 Currently Learning
+
+- Core Java and OOP
+- Data Structures & Algorithms
+- Problem Solving
+- Spring Boot and Full Stack Development
+
+## 💻 My Projects
+
+- [CodeAlpha E-Commerce EDA](https://github.com/shreyap9686/CodeAlpha_ECommerce_EDA)
+- [CodeAlpha Internship Tasks](https://github.com/shreyap9686/codealpha_tasks)
+
+## 🎯 My Goals
+
+- Solve DSA problems consistently.
+- Build real-world full-stack projects.
+- Improve technical and communication skills.
+- Prepare for software engineering placements.
+
+---
+
+### 📫 Connect with me
+
+- GitHub: [@shreyap9686](https://github.com/shreyap9686)
+
+⭐ Thanks for visiting my profile!
